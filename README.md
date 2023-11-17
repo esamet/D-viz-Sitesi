@@ -1,4 +1,4 @@
-# Doviz Sitesi
+# Trading Simulation
 PHP ve MySql eğitimimin sonunda yaptığım websitesi, herhangi bir emtia oluşturup onu alıp satabilirsiniz, üye girişi yaptıktan sonra işlemleri canlı olarak veritabanına kaydeder.
 
 üye olmak için navbardaki üye ol kısmını kullanabilirsiniz
